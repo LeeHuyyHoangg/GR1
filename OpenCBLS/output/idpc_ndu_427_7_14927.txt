@@ -1,0 +1,282 @@
+Runtime:0
+Begin route: 1 -> 327 -> 177 -> 128 -> 170 -> 379 -> 331 -> 144 -> 307 -> 129 -> 204 -> 356 -> 427 -> 
+Violation: 3
+Weight: 211
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 282
+
+Runtime:1
+Begin route: 1 -> 297 -> 119 -> 156 -> 376 -> 232 -> 137 -> 22 -> 369 -> 164 -> 222 -> 87 -> 104 -> 423 -> 182 -> 427 -> 
+Violation: 5
+Weight: 232
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 265
+
+Runtime:2
+Begin route: 1 -> 191 -> 352 -> 332 -> 113 -> 360 -> 145 -> 315 -> 45 -> 44 -> 339 -> 228 -> 5 -> 379 -> 306 -> 358 -> 427 -> 
+Violation: 7
+Weight: 297
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 266
+
+Runtime:3
+Begin route: 1 -> 91 -> 45 -> 202 -> 379 -> 423 -> 80 -> 34 -> 282 -> 23 -> 171 -> 329 -> 291 -> 427 -> 
+Violation: 8
+Weight: 216
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 265
+
+Runtime:4
+Begin route: 1 -> 216 -> 242 -> 304 -> 120 -> 229 -> 427 -> 
+Violation: 1
+Weight: 97
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 282
+
+Runtime:5
+Begin route: 1 -> 194 -> 427 -> 
+Violation: 0
+Weight: 15
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 234
+
+Runtime:6
+Begin route: 1 -> 78 -> 7 -> 427 -> 
+Violation: 0
+Weight: 24
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 250
+
+Runtime:7
+Begin route: 1 -> 124 -> 160 -> 408 -> 373 -> 381 -> 282 -> 196 -> 427 -> 
+Violation: 3
+Weight: 150
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 281
+
+Runtime:8
+Begin route: 1 -> 368 -> 243 -> 5 -> 305 -> 307 -> 220 -> 412 -> 334 -> 72 -> 427 -> 
+Violation: 3
+Weight: 184
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 266
+
+Runtime:9
+Begin route: 1 -> 404 -> 4 -> 99 -> 324 -> 211 -> 427 -> 
+Violation: 2
+Weight: 76
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 250
+
+Runtime:10
+Begin route: 1 -> 227 -> 51 -> 371 -> 182 -> 427 -> 
+Violation: 0
+Weight: 96
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 266
+
+Runtime:11
+Begin route: 1 -> 10 -> 219 -> 256 -> 243 -> 146 -> 316 -> 359 -> 14 -> 44 -> 47 -> 217 -> 162 -> 367 -> 214 -> 272 -> 352 -> 65 -> 358 -> 427 -> 
+Violation: 8
+Weight: 312
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 265
+
+Runtime:12
+Begin route: 1 -> 8 -> 381 -> 423 -> 419 -> 82 -> 104 -> 277 -> 414 -> 316 -> 121 -> 427 -> 
+Violation: 3
+Weight: 176
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 266
+
+Runtime:13
+Begin route: 1 -> 236 -> 241 -> 183 -> 82 -> 149 -> 427 -> 
+Violation: 0
+Weight: 118
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 265
+
+Runtime:14
+Begin route: 1 -> 385 -> 67 -> 41 -> 115 -> 93 -> 252 -> 17 -> 323 -> 215 -> 343 -> 188 -> 350 -> 30 -> 45 -> 337 -> 427 -> 
+Violation: 8
+Weight: 275
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 250
+
+Runtime:15
+Begin route: 1 -> 158 -> 132 -> 115 -> 235 -> 22 -> 384 -> 302 -> 128 -> 213 -> 51 -> 162 -> 367 -> 340 -> 427 -> 
+Violation: 5
+Weight: 248
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 250
+
+Runtime:16
+Begin route: 1 -> 363 -> 290 -> 197 -> 232 -> 266 -> 369 -> 101 -> 82 -> 245 -> 72 -> 427 -> 
+Violation: 4
+Weight: 178
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 265
+
+Runtime:17
+Begin route: 1 -> 78 -> 329 -> 282 -> 270 -> 35 -> 410 -> 177 -> 306 -> 401 -> 427 -> 
+Violation: 2
+Weight: 161
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 250
+
+Runtime:18
+Begin route: 1 -> 157 -> 237 -> 427 -> 
+Violation: 0
+Weight: 28
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 250
+
+Runtime:19
+Begin route: 1 -> 327 -> 144 -> 346 -> 42 -> 202 -> 262 -> 133 -> 7 -> 427 -> 
+Violation: 3
+Weight: 131
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 250
+
+Runtime:20
+Begin route: 1 -> 322 -> 152 -> 427 -> 
+Violation: 0
+Weight: 41
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 281
+
+Runtime:21
+Begin route: 1 -> 227 -> 123 -> 353 -> 403 -> 143 -> 60 -> 219 -> 275 -> 269 -> 44 -> 230 -> 242 -> 425 -> 251 -> 400 -> 316 -> 218 -> 3 -> 312 -> 382 -> 427 -> 
+Violation: 9
+Weight: 378
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 266
+
+Runtime:22
+Begin route: 1 -> 61 -> 266 -> 260 -> 427 -> 
+Violation: 0
+Weight: 58
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 266
+
+Runtime:23
+Begin route: 1 -> 216 -> 86 -> 400 -> 223 -> 427 -> 
+Violation: 0
+Weight: 82
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 249
+
+Runtime:24
+Begin route: 1 -> 405 -> 230 -> 107 -> 80 -> 290 -> 266 -> 53 -> 70 -> 41 -> 130 -> 77 -> 293 -> 197 -> 112 -> 189 -> 427 -> 
+Violation: 8
+Weight: 293
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 266
+
+Runtime:25
+Begin route: 1 -> 2 -> 170 -> 130 -> 389 -> 427 -> 
+Violation: 1
+Weight: 42
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 250
+
+Runtime:26
+Begin route: 1 -> 395 -> 154 -> 398 -> 317 -> 427 -> 
+Violation: 1
+Weight: 75
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 266
+
+Runtime:27
+Begin route: 1 -> 310 -> 356 -> 427 -> 
+Violation: 0
+Weight: 34
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 265
+
+Runtime:28
+Begin route: 1 -> 236 -> 252 -> 18 -> 410 -> 235 -> 22 -> 139 -> 311 -> 427 -> 
+Violation: 4
+Weight: 145
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 266
+
+Runtime:29
+Begin route: 1 -> 148 -> 309 -> 23 -> 242 -> 113 -> 387 -> 63 -> 118 -> 4 -> 156 -> 252 -> 5 -> 37 -> 427 -> 
+Violation: 5
+Weight: 219
+Result route: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 427 -> 
+Violation: 0
+Weight: 8
+Total Time: 250
+
+Violation average: 0.0
+Violation StandardDeviation: 0.0
+Best violation: 0
+Worst violation: 0
+Weight average: 8.0
+Weight StandardDeviation: 0.0
+Best weight: 8
+Worst weight: 8
+Runtime average: 261.43333333333334
+Runtime StandardDeviation: 11.488206513154642
+Best runtime: 234
+Worst runtime: 282
